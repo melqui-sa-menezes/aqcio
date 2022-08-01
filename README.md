@@ -27,4 +27,10 @@ Hint: This can be modeled as a search problem and the solution is between the in
 
 ### 4. Why JSON is better than XML?
 
-### 5. Please tell me about the most important/interesing project you worked on. Why was it important? Which programming language you used? Why you believe you were vital for it?
+The answer to this question is not so simple.
+Being often considered "old", XML has characteristics that go beyond the processing and transport of data, being, consequently, more complex. JSON is faster and easier to use. However, while XML is even slower and more complex, it also offers additional features that, to this day, JSON has not yet been developed further.
+On the other hand, JSON is a more modern approach to the same purpose as XML, being preferred for delivering data between browsers and servers because of the lighter and faster files it produces.
+
+### 5. Please tell me about the most important/interesting project you worked on. Why was it important? Which programming language you used? Why you believe you were vital for it?
+My last job gave me the challenge of working on building a product from scratch. Using the python language, the FastAPI framework and the sqlalchemy ORM, we built API's that served to feed data about products and user permissions in a social e-commerce.
+During the period I was able to evolve in the use of clean architecture and clean code standardization.
